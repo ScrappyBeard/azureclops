@@ -10,7 +10,7 @@
           {
             "type": 1,
             "content": {
-              "json": "![alt text](https://scrappybeard.github.io/azureclops/main/Header.png)"
+              "json": "![alt text](https://scrappybeard.github.io/azureclops/Header.png)"
             },
             "customWidth": "85",
             "name": "text - 5"
@@ -579,7 +579,7 @@
                 {
                   "type": 1,
                   "content": {
-                    "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr><br>\r\n💡 Recommendation : Assess geographical distribution of your Azure resources against the Business Continuity need and KPI to avoid/limit the impact of region outage.<br>\r\n\r\nBenefit: Highly Redundant & Fault Tolerant infrastructure. \r\n"
+                    "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr><br>\r\n💡 Recommendation : Assess geographical distribution of your Azure resources against the Business Continuity need and KPI to avoid/limit the impact of region outage.<br>\r\n\r\nBenefit: Highly Redundant & Fault Tolerant infrastructure. \r\n"
                   },
                   "customWidth": "40",
                   "conditionalVisibility": {
@@ -1166,7 +1166,7 @@
                 {
                   "type": 1,
                   "content": {
-                    "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\nCloudOps Recommended to assess geographical distribution of your Azure resources against the Business Continuity KPI to avoid the outage during the region disaster.\r\n\r\nBenefit : Highly Available & Fault Tolerant infrastructure. \r\n"
+                    "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\nCloudOps Recommended to assess geographical distribution of your Azure resources against the Business Continuity KPI to avoid the outage during the region disaster.\r\n\r\nBenefit : Highly Available & Fault Tolerant infrastructure. \r\n"
                   },
                   "customWidth": "40",
                   "conditionalVisibility": {
@@ -1541,7 +1541,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡  CloudOps Recommend to analyse regulary the VM landscape for business need and identify the relevant VM’s for resizing. \r\n\r\nBenefit : Cost Optimization"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡  CloudOps Recommend to analyse regulary the VM landscape for business need and identify the relevant VM’s for resizing. \r\n\r\nBenefit : Cost Optimization"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -1892,7 +1892,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation : Access Virtual machine which are in Powered Off State against business need.Unused Virtual machines are reocmmended to cleaup under agreed change control.<br>\r\n\r\nBenefit : The main purposes of deleting Unused Virtual machine is to save the cost."
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation : Access Virtual machine which are in Powered Off State against business need.Unused Virtual machines are reocmmended to cleaup under agreed change control.<br>\r\n\r\nBenefit : The main purposes of deleting Unused Virtual machine is to save the cost."
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -2269,7 +2269,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation :Assess the virtual machine where availability is impacted and take it for further troubleshooting.\r\n\r\nBenefit : Performance Optimization & Fault Tollerent Infra"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation :Assess the virtual machine where availability is impacted and take it for further troubleshooting.\r\n\r\nBenefit : Performance Optimization & Fault Tollerent Infra"
                         },
                         "customWidth": "40",
                         "conditionalVisibility": {
@@ -2401,7 +2401,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendaiton : Validate Compute infra as a part of daily health check for overutilzied & underutilzed virtual machine on listed KPI and follow listed recommendaitons. \r\n\r\nBenefit : Cost & Performance Optimization. "
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendaiton : Validate Compute infra as a part of daily health check for overutilzied & underutilzed virtual machine on listed KPI and follow listed recommendaitons. \r\n\r\nBenefit : Cost & Performance Optimization. "
                         },
                         "conditionalVisibility": {
                           "parameterName": "recommendation",
@@ -8032,7 +8032,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation : validate the overutilzied disk during daily health check and take it forward under agreed capicity management process. Also take underutlize disk for right sizing to optimise the cost & performance.\r\n\r\nBenefit : Performacne  & Cost Optimization "
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation : validate the overutilzied disk during daily health check and take it forward under agreed capicity management process. Also take underutlize disk for right sizing to optimise the cost & performance.\r\n\r\nBenefit : Performacne  & Cost Optimization "
                         },
                         "customWidth": "30",
                         "conditionalVisibility": {
@@ -8364,7 +8364,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation: validate the overutilized VM in terms of CPU and Memory and take it forward with Resource Owner / stakeholder under agreed capicity management for optiization .\r\n\r\nBenefit : Performance & Cost Optimization"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation: validate the overutilized VM in terms of CPU and Memory and take it forward with Resource Owner / stakeholder under agreed capicity management for optiization .\r\n\r\nBenefit : Performance & Cost Optimization"
                         },
                         "customWidth": "30",
                         "conditionalVisibility": {
@@ -10185,7 +10185,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation: Review OS Disk which are in LRS deployment against BCP need and take it forward with respective practices including Cyber security and IT Security for further remediation.Also validate the availability Zone Configuration to evaluate dependency of Availability Zone <br>\r\n\r\nBenefit : Fault Tollerent infrastructure"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation: Review OS Disk which are in LRS deployment against BCP need and take it forward with respective practices including Cyber security and IT Security for further remediation.Also validate the availability Zone Configuration to evaluate dependency of Availability Zone <br>\r\n\r\nBenefit : Fault Tollerent infrastructure"
                         },
                         "customWidth": "100",
                         "conditionalVisibility": {
@@ -11468,7 +11468,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Review Disk with LRS deployment against BCP need and take it forward with respective practices including (Cyber security and IT Security) for further remediation.\r\n\r\nBenefit : Fault Tollerent infrastructure"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Review Disk with LRS deployment against BCP need and take it forward with respective practices including (Cyber security and IT Security) for further remediation.\r\n\r\nBenefit : Fault Tollerent infrastructure"
                         },
                         "customWidth": "100",
                         "conditionalVisibility": {
@@ -12567,7 +12567,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess non approved private end points (if any) & take it up with resoruce owner/stakeholder for further cleanup under agreed change control.\r\n\r\nBenefit : Operational Excellence\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess non approved private end points (if any) & take it up with resoruce owner/stakeholder for further cleanup under agreed change control.\r\n\r\nBenefit : Operational Excellence\r\n"
                         },
                         "customWidth": "75",
                         "conditionalVisibility": {
@@ -13270,7 +13270,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess NSG which are not enabled for Flow logs and traffic analysis and take it foward with respecieve owner/stakeholder to enable these under agreed change control.\r\n\r\nBenefit : Operational Excellence\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess NSG which are not enabled for Flow logs and traffic analysis and take it foward with respecieve owner/stakeholder to enable these under agreed change control.\r\n\r\nBenefit : Operational Excellence\r\n"
                         },
                         "customWidth": "30",
                         "conditionalVisibility": {
@@ -14041,7 +14041,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡Recommendations : Assess the Listed Fireall for below factors :  <br><br>\r\n1) Not active firewall need to be taken forward for further cleanup under agreed change control. <br><br>\r\n2) Validate Unique IP for anomolies & further action.\r\n\r\nBenefit : Operational Excellence and Cost Opitmization\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡Recommendations : Assess the Listed Fireall for below factors :  <br><br>\r\n1) Not active firewall need to be taken forward for further cleanup under agreed change control. <br><br>\r\n2) Validate Unique IP for anomolies & further action.\r\n\r\nBenefit : Operational Excellence and Cost Opitmization\r\n"
                         },
                         "customWidth": "40",
                         "conditionalVisibility": {
@@ -15860,7 +15860,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendaiton : Assess following factor <br><br>\r\n1) Validate the request failures on key vault and take it forward for further troubleshooting<br>\r\n2) Validate the soft delete setting with retention setting on all storage account and take it forward with resoruce owner to enable it in case its not activated<br>\r\n3) Validate the top callers with resoruce owners and take necessary action to block it in case if any anomaly found.\r\n\r\nBenefit : Fault Tolerant and Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendaiton : Assess following factor <br><br>\r\n1) Validate the request failures on key vault and take it forward for further troubleshooting<br>\r\n2) Validate the soft delete setting with retention setting on all storage account and take it forward with resoruce owner to enable it in case its not activated<br>\r\n3) Validate the top callers with resoruce owners and take necessary action to block it in case if any anomaly found.\r\n\r\nBenefit : Fault Tolerant and Security Enhancement\r\n"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -17760,7 +17760,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess following factors <br><br>\r\n1) Assess storage accounts which are deployed in LRS SKU and redundnacy is not enabled, and take it up with respecive resoruce owner to enable the secondary region.<br> <br>\r\n2) Assess storage accounts wich have public exposure  and take it foward with respective resource owner to decide if public access can be disabled <br> <br>\r\n3) Validate Minmim TLS Requirment and take it foward with respective resource owner to decide if TLS 1.2 can be enabled for storage account where lower version is enabled.  <br><br>\r\n\r\nBenefit : Highly available infra and Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess following factors <br><br>\r\n1) Assess storage accounts which are deployed in LRS SKU and redundnacy is not enabled, and take it up with respecive resoruce owner to enable the secondary region.<br> <br>\r\n2) Assess storage accounts wich have public exposure  and take it foward with respective resource owner to decide if public access can be disabled <br> <br>\r\n3) Validate Minmim TLS Requirment and take it foward with respective resource owner to decide if TLS 1.2 can be enabled for storage account where lower version is enabled.  <br><br>\r\n\r\nBenefit : Highly available infra and Security Enhancement\r\n"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -17839,7 +17839,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation : Assess the app Service Landescape for following factor :<br>\r\n1) Assess app without autoscaling(If any) with respective applicaiton owner to enable autoscaling based on BCP Needs. <br><br>\r\n2) Validate the application insights retention with data retention needs and take it forward with respective practic lead.<br><br>\r\n3) Assess app service in down state (if any) and take it forward with app owner for further cleanup\r\n\r\nBenefit : Operational Excellence, Cost Opitmization & Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation : Assess the app Service Landescape for following factor :<br>\r\n1) Assess app without autoscaling(If any) with respective applicaiton owner to enable autoscaling based on BCP Needs. <br><br>\r\n2) Validate the application insights retention with data retention needs and take it forward with respective practic lead.<br><br>\r\n3) Assess app service in down state (if any) and take it forward with app owner for further cleanup\r\n\r\nBenefit : Operational Excellence, Cost Opitmization & Security Enhancement\r\n"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -18994,7 +18994,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the Load Balancers landescape for following factors : <br> <br>\r\n\r\n1) Assess SKU for loadbalncers and right size based on applicaiton need<br><br>\r\n2) Assess helath probe status and take necessary action to ensure health of LB will remain healthy<br><br>\r\n3) Assess scenario where datapath availability will be < 100% and take necessary action to remeidate this<br><br>\r\n3) Assess the Load Balancers which are not processing the traffic at all,take it forward with respecitve resource owner for further cleanup.<br><br>\r\n\r\nBenefit : Operational Excellence, Cost Opitmization & fault tolerant deployment.\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the Load Balancers landescape for following factors : <br> <br>\r\n\r\n1) Assess SKU for loadbalncers and right size based on applicaiton need<br><br>\r\n2) Assess helath probe status and take necessary action to ensure health of LB will remain healthy<br><br>\r\n3) Assess scenario where datapath availability will be < 100% and take necessary action to remeidate this<br><br>\r\n3) Assess the Load Balancers which are not processing the traffic at all,take it forward with respecitve resource owner for further cleanup.<br><br>\r\n\r\nBenefit : Operational Excellence, Cost Opitmization & fault tolerant deployment.\r\n"
                         },
                         "conditionalVisibility": {
                           "parameterName": "recommendation",
@@ -19827,7 +19827,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the reason for failed Backup (if any) and take the necessary action to get the Backup Completed .\r\n\r\n\r\nBenefit : Data Availability & Operational Excellence\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the reason for failed Backup (if any) and take the necessary action to get the Backup Completed .\r\n\r\n\r\nBenefit : Data Availability & Operational Excellence\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -21442,7 +21442,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess list of below listed VM for backup applicability with resource owner and enable it accordigly. \r\n\r\n\r\nBenefit : Data Availability & Operational Excellence\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess list of below listed VM for backup applicability with resource owner and enable it accordigly. \r\n\r\n\r\nBenefit : Data Availability & Operational Excellence\r\n"
                         },
                         "customWidth": "45",
                         "conditionalVisibility": {
@@ -21744,7 +21744,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the reason for failed Backup and take the necessary action.\r\n\r\n\r\nBenefit : Data Availability & Operational Excellence\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the reason for failed Backup and take the necessary action.\r\n\r\n\r\nBenefit : Data Availability & Operational Excellence\r\n"
                         },
                         "customWidth": "45",
                         "conditionalVisibility": {
@@ -21941,7 +21941,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the reason for protection stopped and take it for remediation.\r\n\r\n\r\nBenefit : Security Compliance.\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the reason for protection stopped and take it for remediation.\r\n\r\n\r\nBenefit : Security Compliance.\r\n"
                         },
                         "customWidth": "45",
                         "conditionalVisibility": {
@@ -22399,7 +22399,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess listed snapshot for retention requirement and delete unwanted old snapshots under agreed change control \r\n\r\n\r\nBenefit : Cost Saving & Operational Excellence\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess listed snapshot for retention requirement and delete unwanted old snapshots under agreed change control \r\n\r\n\r\nBenefit : Cost Saving & Operational Excellence\r\n"
                         },
                         "customWidth": "45",
                         "conditionalVisibility": {
@@ -23705,7 +23705,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡Recommended : Assess the active backup poilicies for retention and take inactive backup policies forward with respective staekholder for cleanup.\r\nt <br><br>\r\n2) Validate the protection stauts for each active policy.\r\n\r\nBenefit : Operational Excellence & Security Compliance\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡Recommended : Assess the active backup poilicies for retention and take inactive backup policies forward with respective staekholder for cleanup.\r\nt <br><br>\r\n2) Validate the protection stauts for each active policy.\r\n\r\nBenefit : Operational Excellence & Security Compliance\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -27532,7 +27532,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "Disclamer : Numbers displayed under patching dashboard are indicative based on Microsoft defination Releases. However deployment of updates are completely based on customer defined patching stretegy. \r\n\r\n![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the missing updates as guidance only\r\n\r\nBenefit : Security Enhancement.\r\n"
+                                "json": "Disclamer : Numbers displayed under patching dashboard are indicative based on Microsoft defination Releases. However deployment of updates are completely based on customer defined patching stretegy. \r\n\r\n![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the missing updates as guidance only\r\n\r\nBenefit : Security Enhancement.\r\n"
                               },
                               "conditionalVisibility": {
                                 "parameterName": "recommendation",
@@ -28918,7 +28918,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess listed extension where state is either \"Failed\" or \"Updating\" and take appropriate action to keep it running.\r\n\r\nBenefit : Perfromance Optimization"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess listed extension where state is either \"Failed\" or \"Updating\" and take appropriate action to keep it running.\r\n\r\nBenefit : Perfromance Optimization"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -29408,7 +29408,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the workspace for following Factor : \r\n1) validate the Retention configured for each of the workspace. <br><br>\r\n2) Validate the solutions configured for each of workspace <br<b>\r\n\r\nBased on findings apply required configuration to ensure up-to-the-mark level of observabity \r\n\r\nBenefit : Operational Excellence"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the workspace for following Factor : \r\n1) validate the Retention configured for each of the workspace. <br><br>\r\n2) Validate the solutions configured for each of workspace <br<b>\r\n\r\nBased on findings apply required configuration to ensure up-to-the-mark level of observabity \r\n\r\nBenefit : Operational Excellence"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -31141,7 +31141,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess Linux Services which are down and take necessary aciton to bring them up. Also recommmendaiton to assess the Windows VM with down agents and take appropirate action to have this up and runnning.\r\n\r\nBenefit : Operational Excellence, Performance Opitmization\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess Linux Services which are down and take necessary aciton to bring them up. Also recommmendaiton to assess the Windows VM with down agents and take appropirate action to have this up and runnning.\r\n\r\nBenefit : Operational Excellence, Performance Opitmization\r\n"
                         },
                         "customWidth": "35",
                         "conditionalVisibility": {
@@ -31771,7 +31771,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess status of stopped and unhealthy agents and take appropriate remediation to bring agent up and running. (You can use unhealthy criteria as \"30 Mins without heartbeat\" for assesment)\r\n\r\nBenefit : Operational Excellence & Performance Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess status of stopped and unhealthy agents and take appropriate remediation to bring agent up and running. (You can use unhealthy criteria as \"30 Mins without heartbeat\" for assesment)\r\n\r\nBenefit : Operational Excellence & Performance Enhancement\r\n"
                         },
                         "customWidth": "40",
                         "conditionalVisibility": {
@@ -32579,7 +32579,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the entires with multiple signing activties and report anomalies to respecitve practic (cyber/IT Security Team) and take appropirate action.\r\n\r\nBenefit : Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the entires with multiple signing activties and report anomalies to respecitve practic (cyber/IT Security Team) and take appropirate action.\r\n\r\nBenefit : Security Enhancement\r\n"
                         },
                         "customWidth": "35",
                         "conditionalVisibility": {
@@ -32674,7 +32674,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Assess device failure along with unapproved OS and take it with respective practic (Cyber/IT Security) for remediation.\r\n\r\nBenefit : Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Assess device failure along with unapproved OS and take it with respective practic (Cyber/IT Security) for remediation.\r\n\r\nBenefit : Security Enhancement\r\n"
                         },
                         "customWidth": "35",
                         "conditionalVisibility": {
@@ -33008,7 +33008,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess unapproved locaiton and take it with respective practic (Cyber/IT Security) for remediation.\r\n\r\nBenefit : Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess unapproved locaiton and take it with respective practic (Cyber/IT Security) for remediation.\r\n\r\nBenefit : Security Enhancement\r\n"
                         },
                         "customWidth": "35",
                         "conditionalVisibility": {
@@ -33630,7 +33630,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess failed MFA Reason and take anomalies for further investigation and remediation\r\n\r\nBenefit : Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess failed MFA Reason and take anomalies for further investigation and remediation\r\n\r\nBenefit : Security Enhancement\r\n"
                         },
                         "customWidth": "25",
                         "conditionalVisibility": {
@@ -33824,7 +33824,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess Common signin issues and take it for further investigation and remediation.\r\n\r\nBenefit : Security Enhancement\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess Common signin issues and take it for further investigation and remediation.\r\n\r\nBenefit : Security Enhancement\r\n"
                         },
                         "customWidth": "25",
                         "conditionalVisibility": {
@@ -34476,7 +34476,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png) \r\n<hr>\r\n💡Recommendation : Leverage Azure Hybrid Benefit which is a licensing offer that helps you migrate and save to Azure. <br>\r\n\r\nBenefit : By using Azure Hybrid Benefit, you can achieve cost savings, modernise and maintain a flexible hybrid environment while optimising business applications. Explore savings with the Azure Hybrid Benefit Savings Calculator.\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png) \r\n<hr>\r\n💡Recommendation : Leverage Azure Hybrid Benefit which is a licensing offer that helps you migrate and save to Azure. <br>\r\n\r\nBenefit : By using Azure Hybrid Benefit, you can achieve cost savings, modernise and maintain a flexible hybrid environment while optimising business applications. Explore savings with the Azure Hybrid Benefit Savings Calculator.\r\n"
                         },
                         "conditionalVisibility": {
                           "parameterName": "recommendation",
@@ -34680,7 +34680,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png) \r\n<hr>\r\n💡Recommendation : Leverage Tags for all of your Cloud Resources including Subscription , Resources , Resource Groups. Also evaluate unique mandatory tags and streamline across Azure Tenant.<br>\r\n\r\nBenefit : Tagging is a critical part of an overall governance policy which help you to achieve operation excellence and decide accontability of each cloud resources. Tagging is also complement  automation stratgey.\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png) \r\n<hr>\r\n💡Recommendation : Leverage Tags for all of your Cloud Resources including Subscription , Resources , Resource Groups. Also evaluate unique mandatory tags and streamline across Azure Tenant.<br>\r\n\r\nBenefit : Tagging is a critical part of an overall governance policy which help you to achieve operation excellence and decide accontability of each cloud resources. Tagging is also complement  automation stratgey.\r\n"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -35026,7 +35026,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png) \r\n<hr>\r\n💡 Recommendation: Assess each resource which is exoposed to external world against your application need and take it foward with Security Team approrpriately to ensure enough security control are in place.\r\n\r\nBenefit : Securing overall Infrastructure landscape "
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png) \r\n<hr>\r\n💡 Recommendation: Assess each resource which is exoposed to external world against your application need and take it foward with Security Team approrpriately to ensure enough security control are in place.\r\n\r\nBenefit : Securing overall Infrastructure landscape "
                         },
                         "conditionalVisibility": {
                           "parameterName": "recommendation",
@@ -35092,7 +35092,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess below listed recommendation for your Azure resources and take it up with respective resource owner for implemting suggested recommendaiton under agreed change control.\r\n\r\nBenefit : Performance Optimization.\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess below listed recommendation for your Azure resources and take it up with respective resource owner for implemting suggested recommendaiton under agreed change control.\r\n\r\nBenefit : Performance Optimization.\r\n"
                         },
                         "conditionalVisibility": {
                           "parameterName": "recommendation",
@@ -35422,7 +35422,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n\r\nThe Reliability Score given represents an indication of the number of configurable reliability options that have been implemented. For instance Availability Zones, Availability Set, Sku, Backup, Site Recovery, etc.The Reliability Score does not include a number for the 'default' reliability for any given resource type. For instance, the current lowest default SLA for any Single Instance Virtual Machine using Standard HDD Managed Disks for Operating System Disks and Data Disks, have an SLA of at least 95% \r\n\r\n💡 Recommendation : Assess below listed reosurces against recommendation provided and take it up with respecive resource owner/stakeholders for mitigation under agreed change control.\r\n\r\nBenefit : fault tollerent infrastructure\r\n\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n\r\nThe Reliability Score given represents an indication of the number of configurable reliability options that have been implemented. For instance Availability Zones, Availability Set, Sku, Backup, Site Recovery, etc.The Reliability Score does not include a number for the 'default' reliability for any given resource type. For instance, the current lowest default SLA for any Single Instance Virtual Machine using Standard HDD Managed Disks for Operating System Disks and Data Disks, have an SLA of at least 95% \r\n\r\n💡 Recommendation : Assess below listed reosurces against recommendation provided and take it up with respecive resource owner/stakeholders for mitigation under agreed change control.\r\n\r\nBenefit : fault tollerent infrastructure\r\n\r\n"
                         },
                         "customWidth": "75",
                         "name": "text - 1",
@@ -35886,7 +35886,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess below recommendations and take it foward with respective resource owner/Stakeholder to take appropriate action under Change Control.<br>\r\n\r\nBenefit : Cost Optimization\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess below recommendations and take it foward with respective resource owner/Stakeholder to take appropriate action under Change Control.<br>\r\n\r\nBenefit : Cost Optimization\r\n"
                         },
                         "customWidth": "40",
                         "conditionalVisibility": {
@@ -36223,7 +36223,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess below listed resources and category and take it forward with respective stakeholder to optimise data retentation policices \r\n<br><br>\r\nBenefit : Cost Optimization\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess below listed resources and category and take it forward with respective stakeholder to optimise data retentation policices \r\n<br><br>\r\nBenefit : Cost Optimization\r\n"
                         },
                         "customWidth": "40",
                         "conditionalVisibility": {
@@ -36549,7 +36549,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation: Assess below listed security recommendations with relevent pratctice onwer(Cyber & IT Securit team) for remediation under Change Control.\r\n\r\nBenefit : Security Enhancement"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation: Assess below listed security recommendations with relevent pratctice onwer(Cyber & IT Securit team) for remediation under Change Control.\r\n\r\nBenefit : Security Enhancement"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -37093,7 +37093,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation : Based on nature of business, recommended to assess below listed Compliances and control and take it up with with Relevent Practice Owner, Cyber & IT Securit team for remediation under Change Control.\r\n\r\nBenefit : Security Enhancement"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation : Based on nature of business, recommended to assess below listed Compliances and control and take it up with with Relevent Practice Owner, Cyber & IT Securit team for remediation under Change Control.\r\n\r\nBenefit : Security Enhancement"
                         },
                         "customWidth": "50",
                         "conditionalVisibility": {
@@ -39302,7 +39302,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Assess below listed CVE/VUlnebatilites and take it with relevent pratctice onwer(Cyber & IT Securit team) for remediation.\r\n\r\nBenefit : Security Enhancement"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Assess below listed CVE/VUlnebatilites and take it with relevent pratctice onwer(Cyber & IT Securit team) for remediation.\r\n\r\nBenefit : Security Enhancement"
                               },
                               "customWidth": "40",
                               "conditionalVisibility": {
@@ -40360,7 +40360,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation : Assess the listed NSG Rules(if any) with application/business need and avoid using over-permissive rules like “allow any” as this can put your network at risk. Permissive rules give users more freedom, which can translate into granting users access to more resources than they need to perform business-related functions. This leads to two types of problems: Under or overutilized network bandwidth & Increased exposure to potentially malicious sites.\r\n\r\nBenefit : Operational Excellence and Security Enhancement \r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡Recommendation : Assess the listed NSG Rules(if any) with application/business need and avoid using over-permissive rules like “allow any” as this can put your network at risk. Permissive rules give users more freedom, which can translate into granting users access to more resources than they need to perform business-related functions. This leads to two types of problems: Under or overutilized network bandwidth & Increased exposure to potentially malicious sites.\r\n\r\nBenefit : Operational Excellence and Security Enhancement \r\n"
                         },
                         "customWidth": "75",
                         "conditionalVisibility": {
@@ -41306,7 +41306,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation : Orphan Availabilty sets are quite a common theme in Azure environments. CloudOps Recommended to assess the above listed Availabity Set (if any) and take it up for cleaup with resource owner / designated stakeholder.\r\n\r\nBenefit : The main purposes of deleting the orphan availability set is to save the cost, prevent misconfiguration and simplify operations."
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡  Recommendation : Orphan Availabilty sets are quite a common theme in Azure environments. CloudOps Recommended to assess the above listed Availabity Set (if any) and take it up for cleaup with resource owner / designated stakeholder.\r\n\r\nBenefit : The main purposes of deleting the orphan availability set is to save the cost, prevent misconfiguration and simplify operations."
                               },
                               "conditionalVisibility": {
                                 "parameterName": "recommendation",
@@ -41679,7 +41679,7 @@
                                         {
                                           "type": 1,
                                           "content": {
-                                            "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed disk (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Disk is to save the cost,prevent misconfiguration and simplify operations.\r\n\r\n\r\n\r\n"
+                                            "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed disk (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Disk is to save the cost,prevent misconfiguration and simplify operations.\r\n\r\n\r\n\r\n"
                                           },
                                           "conditionalVisibility": {
                                             "parameterName": "recommendation",
@@ -42058,7 +42058,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated Public IP (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Public IP is to save the cost,prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated Public IP (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Public IP is to save the cost,prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -42296,7 +42296,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated NIC (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan NIC is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated NIC (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan NIC is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -42544,7 +42544,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated NSG (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan NSG is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated NSG (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan NSG is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -42658,7 +42658,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated ASG (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan ASG is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated ASG (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan ASG is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -42900,7 +42900,7 @@
                                   {
                                     "type": 1,
                                     "content": {
-                                      "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed Orphan LB (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan LB is to save cost, prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                      "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed Orphan LB (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan LB is to save cost, prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                                     },
                                     "customWidth": "45",
                                     "conditionalVisibility": {
@@ -43090,7 +43090,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping App Gateway pools where Backedn Pool IP and Backend Pool VM target is empty & take it foward with Resource owners for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Backend Poool is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping App Gateway pools where Backedn Pool IP and Backend Pool VM target is empty & take it foward with Resource owners for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Backend Poool is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -43424,7 +43424,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed Orphan Resource Groups (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Resource Groups is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed Orphan Resource Groups (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Resource Groups is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "customWidth": "40",
                               "conditionalVisibility": {
@@ -43803,7 +43803,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated Route Table (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Route Table is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed unassociated Route Table (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan Route Table is to prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "customWidth": "45",
                               "conditionalVisibility": {
@@ -44572,7 +44572,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed App Service Plan (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan App Service Plan is to save cost, prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess the requirement of keeping listed App Service Plan (if any) with Resource owner and take it forward for cleanup under agreed change control.\r\n\r\nBenefit : The main purposes of deleting the orphan App Service Plan is to save cost, prevent misconfiguration and simplify operations.\r\n\r\n\r\n"
                               },
                               "conditionalVisibility": {
                                 "parameterName": "recommendation",
@@ -44642,7 +44642,7 @@
                             {
                               "type": 1,
                               "content": {
-                                "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess listed Test, POC or Temp reosurces with resource owner and remove applicable one under agreed change control.\r\n\r\nBenefit :  The main purposes of deleting these resources is to have clean infra and prevent misconfiguration to simplify operations.\r\n\r\n\r\n\r\n"
+                                "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation : Assess listed Test, POC or Temp reosurces with resource owner and remove applicable one under agreed change control.\r\n\r\nBenefit :  The main purposes of deleting these resources is to have clean infra and prevent misconfiguration to simplify operations.\r\n\r\n\r\n\r\n"
                               },
                               "conditionalVisibility": {
                                 "parameterName": "recommendation",
@@ -44749,7 +44749,7 @@
                       {
                         "type": 1,
                         "content": {
-                          "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr><br>\r\n💡 Recommendation : Assess configured accounts across your compute Infra and take appropriate action as per in-place security policy.<br>\r\n\r\nBenefit: Operational Excellecne and Security Enhancement.\r\n"
+                          "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr><br>\r\n💡 Recommendation : Assess configured accounts across your compute Infra and take appropriate action as per in-place security policy.<br>\r\n\r\nBenefit: Operational Excellecne and Security Enhancement.\r\n"
                         },
                         "customWidth": "40",
                         "conditionalVisibility": {
@@ -44823,7 +44823,7 @@
                 {
                   "type": 1,
                   "content": {
-                    "json": "![alt text](https://scrappybeard.github.io/azureclops/main/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Under Daily healthcheck listed below helth and service advisory to understnad the impact on your azure Infra.<br>\r\n\r\nBenefit : Operational Excellence\r\n"
+                    "json": "![alt text](https://scrappybeard.github.io/azureclops/highlyrecommended.png)\r\n<hr>\r\n💡 Recommendation: Under Daily healthcheck listed below helth and service advisory to understnad the impact on your azure Infra.<br>\r\n\r\nBenefit : Operational Excellence\r\n"
                   },
                   "customWidth": "70",
                   "conditionalVisibility": {
@@ -44972,7 +44972,7 @@
     {
       "type": 1,
       "content": {
-        "json": "![alt text](https://scrappybeard.github.io/azureclops/main/Footer.png)"
+        "json": "![alt text](https://scrappybeard.github.io/azureclops/Footer.png)"
       },
       "name": "Footer"
     }
